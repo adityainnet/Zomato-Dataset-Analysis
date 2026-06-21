@@ -1,0 +1,25 @@
+# ==================================================
+# 🍽️ Zomato Dataset Analysis - Requirements
+# ==================================================
+# Install all dependencies using:
+# pip install -r requirements.txt
+# ==================================================
+
+# Data Manipulation
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Text Visualization
+wordcloud
+
+# Jupyter Notebook Support
+jupyter
+
+# ==================================================
+# Developed by: Aditya Kumar
+# B.Tech CSE | Vivekananda Global University
+# ==================================================
